@@ -1,0 +1,26 @@
+
+™
+java:S1192
+"WDefine a constant instead of duplicating this literal "AÃ±ado una caja grande" 3 times.(Üôò`8®™¥¬2J$3ca7277f-6dc3-477e-b2c3-f2eb0a320526
+l
+java:S1192"JDefine a constant instead of duplicating this literal " unidades" 3 times.(„½„Ãÿÿÿÿÿ8Óì¥¬2
+z
+java:S1192"XDefine a constant instead of duplicating this literal "Este paquete consta de " 3 times.(„½„Ãÿÿÿÿÿ8Ôì¥¬2
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—æê„úÿÿÿÿ8±™¥¬2J$0e15996f-5537-4493-8c63-bbada8084054
+]
+java:S1220""Move this file to a named package.8²™¥¬2J$bd3ea747-6ae6-4cd2-aad4-60b00be89ed7
+l	java:S106
+"+Replace this use of System.out by a logger.(Üôò`8¹™¥¬2J$6c929507-83c8-4752-b050-31145002554d
+r	java:S106"+Replace this use of System.out by a logger.(ÕãÅöøÿÿÿÿ8º™¥¬2J$1fdb917c-ad4c-44c8-b5a3-cdeeb2428812
+r	java:S106"+Replace this use of System.out by a logger.(¡àËøÿÿÿÿ8»™¥¬2J$a419de3f-766b-4b2a-8dad-cc380821b7cd
+r	java:S106"+Replace this use of System.out by a logger.(„½„Ãÿÿÿÿÿ8»™¥¬2J$ffe7c3ae-72ad-4fee-9c1e-2a15b4b46b0f
+l	java:S106"+Replace this use of System.out by a logger.(Üôò`8¼™¥¬2J$0a6b812c-1714-44c4-9262-bb44f8e61db1
+r	java:S106"+Replace this use of System.out by a logger.(¡àËøÿÿÿÿ8¼™¥¬2J$4d41f09e-6167-4fe4-a075-b5a78ce97b5f
+r	java:S106"+Replace this use of System.out by a logger.(ÕãÅöøÿÿÿÿ8½™¥¬2J$e442eb80-93f9-4d68-a870-d50c5d072451
+r	java:S106"+Replace this use of System.out by a logger.(ÕÔ§ûùÿÿÿÿ8½™¥¬2J$c71748e3-47e8-413f-b61d-98a2dc36fbf1
+l	java:S106"+Replace this use of System.out by a logger.(Üôò`8¾™¥¬2J$cdc9b431-d6cc-470c-93e2-e07fe88832df
+r	java:S106""+Replace this use of System.out by a logger.(¡ºÄ›ÿÿÿÿÿ8¿™¥¬2J$ba47a78c-a168-4722-852b-87dd3afe2506
+x
+java:S1128"0Remove this unused import 'cajas_te.Caja_de_te'.(èï÷Œıÿÿÿÿ8¶Ğ¥¬2J$19a6d892-f39a-406b-bab7-ff2d51f81770
+k
+java:S1128"(Remove this unused import 'pedido.Caja'.(”‡«Õ8¶Ğ¥¬2J$599fb803-0b9a-45ca-9eb2-bce9821cb0a2

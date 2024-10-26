@@ -1,0 +1,8 @@
+
+’	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê£¡8ºÎò¤¬2J$a5140609-f8b7-4bfd-85aa-55b64a63a2c4
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×³ÏY8ºÎò¤¬2J$78d4719c-1620-4897-b840-d6fce22dfbd5
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£»”òùÿÿÿÿ8¼Îò¤¬2J$d401f820-cb82-47e8-b882-67f03b4f78bb
+l
+java:S1481")Remove this unused "caja" local variable.(„–À8Ã›ó¤¬2J$4e024d86-dc59-4121-80a5-4c12979fd8e0
+k	java:S108")Either remove or fill this block of code.(„–À8ÌÎò¤¬2J$e9340862-aa43-4a5a-9cc3-5d6fe14c3b59

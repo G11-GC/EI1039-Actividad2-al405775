@@ -1,0 +1,4 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½•õ¨üÿÿÿÿ8ëÑ À¬2J$28faa59f-919f-444c-9c5e-bf2a82153a09
+œ	java:S116"URename this field "num_sobres" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜåâŒüÿÿÿÿ8ïÑ À¬2J$d9543623-c3e0-4e65-b8c7-c2851e14916e
+l	java:S106"+Replace this use of System.out by a logger.(‚š‰18õÑ À¬2J$c079593c-7ff5-4783-beb1-2d025bfe8d0a
